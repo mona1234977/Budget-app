@@ -1,0 +1,63 @@
+body{
+    background:url("file:///home/mona/Downloads/blur-hospital-clinic-interior_1203-8618.jpg");
+    color: black;
+    background-repeat:initial;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#expense{
+    text-align: center;
+    font-size: 100px;
+}
+#flex{
+    display: flex;
+    margin-left: 200px;
+}
+.addedExpenses{
+    margin-left: 400px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 30;
+}
+.budget{
+    height: 500px;
+    -webkit-box-align: 13px 29px 79px-1px;
+    background:transparent;
+    padding: 50px;
+    border-radius: 100px;
+}
+.budget input{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.addExpense{
+    font-size: 100;
+    background-color: teal;
+}
+.box{
+    height: 30px;
+    width: 300px;
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    background: rgb(25, 202, 25);
+;
+}
+.btn1{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(235, 105, 170);
+}
+
+.cal{
+    float: left;
+}
